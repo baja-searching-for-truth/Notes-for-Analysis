@@ -661,6 +661,8 @@ E.g. $S_N$,Fejer, Dirichlet,Poisson kernels are symmetric.如果我们按照n的
 
 ### The isoperimetric inequality
 
+核心内容是什么呢？是用弧长和面积用积分表示，然后，参数方程的函数用傅里叶级数来描述，转换出的积分用线性性，可以用Parseval等式来给出一个无穷求和的形式。作为求和，那么可以使用最帅的基本不等式系列了。然后取等条件一估计，美滋滋。
+
 ### Weyl's equidistribution theorem
 
 ### A continuous but nowhere differentiable function
