@@ -653,7 +653,7 @@ $$
 
 Symmetric breaking!
 
-E.g. $S_N$,Fejer, Dirichlet,Poisson kernels are symmetric.如果我们按照n的政府分开来，那么问题就不一样了。
+E.g. $S_N$,Fejer, Dirichlet,Poisson kernels are symmetric.如果我们按照n的正负分开来，那么问题就不一样了。
 
 回头再看吧。
 
